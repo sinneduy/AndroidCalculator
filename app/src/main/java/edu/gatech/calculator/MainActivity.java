@@ -9,6 +9,9 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
 
+//Ideally, all the code isn't all sitting in MainActivity as a bunch of functions
+//Will clean this up and break up the code later
+
 public class MainActivity extends ActionBarActivity {
 
     //has started doing calculations
